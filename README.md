@@ -13,5 +13,5 @@ I am a computer science student at the University of Kansas with interest in cyb
 - MySQL/SQLite
 - Docker
 - Node.js/Express.js
-- [Deno](https://deno.land/)/Fresh(https://fresh.deno.dev/)
+- [Deno](https://deno.land/)/[Fresh](https://fresh.deno.dev/)
 
