@@ -1,17 +1,13 @@
 # About Me
 I am a computer science student at the University of Kansas with interest in cyber security, backend frameworks, networking and databases. I have a passion for most things tech and am usually working on a new project, or trying to improve an old one!
 
-# Languages
-- Python
-- JavaScript
-- TypeScript
-- SQL
-- Shell Scripting (Bash and Bourne)
+Most of coding experience has been in Python, but I have worked with JavaScript and TypeScript on a few projects.
 
-# Skills
-- Linux
-- MySQL/SQLite
-- Docker
-- Node.js/Express.js
-- [Deno](https://deno.land/)/[Fresh](https://fresh.deno.dev/)
+I also love custom mechanical keyboards, check out [the butterfly](https://github.com/aaatipamula/butterfly) a keyboard I designed!
+
+# Languages
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,bash,html,css)](https://skillicons.dev)
+
+# Skills/Technologies
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,mysql,sqlite,node,express,deno,cloudflare,graphql,tailwind,vim)](https://skillicons.dev)
 
