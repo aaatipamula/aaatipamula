@@ -9,5 +9,5 @@ I also love custom mechanical keyboards, check out [the butterfly](https://githu
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts,bash,html,css)](https://skillicons.dev)
 
 # Skills/Technologies
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,mysql,sqlite,node,express,deno,cloudflare,graphql,tailwind,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,mysql,sqlite,nodejs,express,deno,cloudflare,graphql,tailwind,vim)](https://skillicons.dev)
 
