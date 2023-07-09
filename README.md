@@ -3,7 +3,15 @@ I am a computer science student at the University of Kansas with interest in cyb
 
 Most of coding experience has been in Python, but I have worked with JavaScript and TypeScript on a few projects.
 
-## Custom Mech Keyboards
+# Languages
+
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,bash,html,css)](https://skillicons.dev)
+
+# Skills/Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,mysql,sqlite,nodejs,express,deno,cloudflare,graphql,tailwind,vim)](https://skillicons.dev)
+
+# Custom Mech Keyboards
 
 I also love custom mechanical keyboards, check out [the butterfly](https://github.com/aaatipamula/butterfly) a keyboard I designed!
 
@@ -23,12 +31,3 @@ My Current Favorite Keyboard:
     - Nylon Bottom Housing
     - POM Stem
 - Custom TRRS Cable
-
-# Languages
-
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,bash,html,css)](https://skillicons.dev)
-
-# Skills/Technologies
-
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,mysql,sqlite,nodejs,express,deno,cloudflare,graphql,tailwind,vim)](https://skillicons.dev)
-
