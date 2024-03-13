@@ -1,15 +1,30 @@
 # About Me
-I am a computer science student at the University of Kansas with interest in cyber security, backend frameworks, networking and databases. I have a passion for most things tech and am usually working on a new project, or trying to improve an old one!
-
-Most of coding experience has been in Python, but I have worked with JavaScript and TypeScript on a few projects.
+I am a computer science student at the University of Kansas with interests in dev-ops, system design and networking. I work on a variety
 
 I also :heart: custom mechanical keyboards, check out [the butterfly](https://github.com/aaatipamula/butterfly) a keyboard I designed!
 
-# Languages
+<hr>
 
-[![My Languages](https://skillicons.dev/icons?i=py,js,ts,bash,html,css)](https://skillicons.dev)
+## My Languages
 
-# Skills/Technologies
+[![My Languages](https://skillicons.dev/icons?i=py,js,ts,c,cpp)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,mysql,sqlite,nodejs,express,deno,cloudflare,graphql,tailwind,vim)](https://skillicons.dev)
+## My Skills
+
+### Runtimes
+[![My Skills Frameworks](https://skillicons.dev/icons?i=nodejs,deno)](https://skillicons.dev)
+
+### Frameworks
+[![My Skills Frameworks](https://skillicons.dev/icons?i=express,tailwind,sass,flask)](https://skillicons.dev)
+
+### Database
+[![My Skills Database](https://skillicons.dev/icons?i=mysql,sqlite,graphql)](https://skillicons.dev)
+
+## My Tools
+
+### Dev-Ops
+[![My Tools Dev-Ops](https://skillicons.dev/icons?i=linux,docker,cloudflare,vercel,bash,perl)](https://skillicons.dev)
+
+### Personal
+[![My Tools Personal](https://skillicons.dev/icons?i=ubuntu,vim,obsidian,latex,md)](https://skillicons.dev)
 
