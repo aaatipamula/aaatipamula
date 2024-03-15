@@ -1,5 +1,5 @@
 # About Me
-I am a computer science student at the University of Kansas with interests in dev-ops, system design and networking. I work on a variety
+I am a computer science student at the University of Kansas with interests in dev-ops, system design and networking.
 
 I also :heart: custom mechanical keyboards, check out [the butterfly](https://github.com/aaatipamula/butterfly) a keyboard I designed!
 
