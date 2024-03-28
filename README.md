@@ -9,7 +9,7 @@ I also :heart: custom mechanical keyboards, check out [the butterfly](https://gi
 
 ## My Skills
 
-[![My Skills Frameworks](https://skillicons.dev/icons?i=nodejs,deno)](https://skillicons.dev
+[![My Skills Frameworks](https://skillicons.dev/icons?i=nodejs,deno)](https://skillicons.dev)
 [![My Skills Frameworks](https://skillicons.dev/icons?i=express,tailwind,sass,flask)](https://skillicons.dev)
 [![My Skills Database](https://skillicons.dev/icons?i=mysql,sqlite,graphql)](https://skillicons.dev)
 
