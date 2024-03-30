@@ -9,12 +9,11 @@ I also :heart: custom mechanical keyboards, check out [the butterfly](https://gi
 
 ## My Skills
 
-[![My Skills Frameworks](https://skillicons.dev/icons?i=nodejs,deno)](https://skillicons.dev)
-[![My Skills Frameworks](https://skillicons.dev/icons?i=express,tailwind,sass,flask)](https://skillicons.dev)
-[![My Skills Database](https://skillicons.dev/icons?i=mysql,sqlite,graphql)](https://skillicons.dev)
+[![My Skills Runtimes](https://skillicons.dev/icons?i=nodejs,deno)](https://skillicons.dev)
+[![My Skills Frameworks](https://skillicons.dev/icons?i=tailwind,sass,express,flask,react)](https://skillicons.dev)
+[![My Skills Databases](https://skillicons.dev/icons?i=mysql,sqlite,graphql)](https://skillicons.dev)
 
 ## My Tools
 
-[![My Tools Dev-Ops](https://skillicons.dev/icons?i=linux,docker,cloudflare,vercel,bash,perl)](https://skillicons.dev)
-[![My Tools Personal](https://skillicons.dev/icons?i=ubuntu,vim,obsidian,latex,md)](https://skillicons.dev)
+[![My Tools Dev-Ops](https://skillicons.dev/icons?i=bash,vim,linux,ubuntu,docker,cloudflare,vercel)](https://skillicons.dev)
 
